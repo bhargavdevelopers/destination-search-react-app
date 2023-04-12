@@ -1,0 +1,41 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+}
+.title {
+  color: #252627;
+  font-family: Bree Serif;
+  text-align: center;
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+  padding: 6px;
+  border-radius: 5px;
+  background-color: #f1f5f9;
+  width: 200px;
+}
+.search-input {
+  font-family: Roboto;
+  color: #0f172a;
+  background-color: #f1f5f9;
+  outline: none;
+  border: none;
+}
+.search-icon {
+  width: 20px;
+  height: 20px;
+}
+.destination-items {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 60px;
+}

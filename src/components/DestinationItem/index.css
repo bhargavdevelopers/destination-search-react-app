@@ -1,0 +1,15 @@
+.item-card {
+  margin: 20px;
+  list-style-type: none;
+}
+.img {
+  border-radius: 8px;
+  width: 250px;
+  height: 200px;
+}
+.name {
+  font-family: Roboto;
+  font-weight: 500;
+  color: #000000;
+  font-size: 15px;
+}
